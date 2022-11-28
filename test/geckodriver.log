@@ -1,0 +1,360 @@
+1669220366623	geckodriver	INFO	Listening on 127.0.0.1:56904
+1669220369647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile75tGPQ"
+1669220370120	Marionette	INFO	Marionette enabled
+1669220370127	Marionette	INFO	Listening on port 56916
+Read port: 56916
+1669220370521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile75tGPQ\\search.json.mozlz4", (void 0)))
+1669220377614	Marionette	INFO	Stopped listening on port 56916
+[Parent 24496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669220483251	geckodriver	INFO	Listening on 127.0.0.1:51610
+1669220486267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile2St3en"
+1669220486747	Marionette	INFO	Marionette enabled
+1669220486752	Marionette	INFO	Listening on port 51622
+Read port: 51622
+1669220487073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile2St3en\\search.json.mozlz4", (void 0)))
+1669220491465	Marionette	INFO	Stopped listening on port 51622
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1669220536269	geckodriver	INFO	Listening on 127.0.0.1:51887
+1669220539310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilexy7lmF"
+1669220539774	Marionette	INFO	Marionette enabled
+1669220539781	Marionette	INFO	Listening on port 51899
+Read port: 51899
+1669220540189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilexy7lmF\\search.json.mozlz4", (void 0)))
+1669220542018	Marionette	INFO	Stopped listening on port 51899
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669220841402	geckodriver	INFO	Listening on 127.0.0.1:52043
+1669220844428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileVwQmez"
+1669220844892	Marionette	INFO	Marionette enabled
+1669220844897	Marionette	INFO	Listening on port 52055
+Read port: 52055
+1669220845192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileVwQmez\\search.json.mozlz4", (void 0)))
+1669220849633	Marionette	INFO	Stopped listening on port 52055
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1669221279534	geckodriver	INFO	Listening on 127.0.0.1:52393
+1669221282560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilevjjQLk"
+1669221283058	Marionette	INFO	Marionette enabled
+1669221283066	Marionette	INFO	Listening on port 52405
+Read port: 52405
+1669221283543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilevjjQLk\\search.json.mozlz4", (void 0)))
+1669221285301	Marionette	INFO	Stopped listening on port 52405
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669221462470	geckodriver	INFO	Listening on 127.0.0.1:52599
+1669221465540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileM1YLxJ"
+1669221466019	Marionette	INFO	Marionette enabled
+1669221466026	Marionette	INFO	Listening on port 52617
+Read port: 52617
+1669221466506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileM1YLxJ\\search.json.mozlz4", (void 0)))
+1669221470994	Marionette	INFO	Stopped listening on port 52617
+1669223557128	geckodriver	INFO	Listening on 127.0.0.1:49660
+1669223560145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilefgiLfF"
+1669223560908	Marionette	INFO	Marionette enabled
+1669223560914	Marionette	INFO	Listening on port 49683
+Read port: 49683
+1669223561411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilefgiLfF\\search.json.mozlz4", (void 0)))
+1669223567510	Marionette	INFO	Stopped listening on port 49683
+[Parent 44628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669275331407	geckodriver	INFO	Listening on 127.0.0.1:56691
+1669275334441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileVNzNrc"
+1669275336330	Marionette	INFO	Marionette enabled
+1669275336360	Marionette	INFO	Listening on port 56703
+Read port: 56703
+Read port: 56703
+1669275338582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileVNzNrc\\search.json.mozlz4", (void 0)))
+1669275361735	Marionette	INFO	Stopped listening on port 56703
+[Parent 28584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 28584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669275540859	geckodriver	INFO	Listening on 127.0.0.1:60478
+1669275543881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileihSJTp"
+1669275545150	Marionette	INFO	Marionette enabled
+1669275545171	Marionette	INFO	Listening on port 60493
+Read port: 60493
+Read port: 60493
+1669275547112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileihSJTp\\search.json.mozlz4", (void 0)))
+[Parent 48848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669275571347	Marionette	INFO	Stopped listening on port 60493
+[Parent 48848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 48848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669276004431	geckodriver	INFO	Listening on 127.0.0.1:61105
+1669276007473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileabYJvc"
+1669276007906	Marionette	INFO	Marionette enabled
+1669276007914	Marionette	INFO	Listening on port 61118
+Read port: 61118
+1669276008211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileabYJvc\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669276015181	Marionette	INFO	Stopped listening on port 61118
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669278371764	geckodriver	INFO	Listening on 127.0.0.1:63226
+1669278374814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileubOHUb"
+1669278375770	Marionette	INFO	Marionette enabled
+1669278375791	Marionette	INFO	Listening on port 63239
+Read port: 63239
+1669278376155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileubOHUb\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669278394000	Marionette	INFO	Stopped listening on port 63239
+[Parent 22072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669278634920	geckodriver	INFO	Listening on 127.0.0.1:63759
+1669278637936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile8m8GS1"
+1669278638924	Marionette	INFO	Marionette enabled
+1669278638947	Marionette	INFO	Listening on port 63774
+Read port: 63774
+1669278639263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile8m8GS1\\search.json.mozlz4", (void 0)))
+1669278658835	Marionette	INFO	Stopped listening on port 63774
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\SUNNYP~1\AppData\Local\Temp\rust_mozprofile8m8GS1\protections.sqlite
+1669278925073	geckodriver	INFO	Listening on 127.0.0.1:64364
+1669278928088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilethmfq1"
+1669278929036	Marionette	INFO	Marionette enabled
+1669278929058	Marionette	INFO	Listening on port 64377
+Read port: 64377
+1669278929415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilethmfq1\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669278946618	Marionette	INFO	Stopped listening on port 64377
+[Parent 55428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 55428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 55428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669292775670	geckodriver	INFO	Listening on 127.0.0.1:65014
+1669292778629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile087AKm"
+1669292779903	Marionette	INFO	Marionette enabled
+1669292779921	Marionette	INFO	Listening on port 65029
+Read port: 65029
+1669292780215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile087AKm\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669296004278	Marionette	INFO	Stopped listening on port 65029
+[Parent 40732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669296082029	geckodriver	INFO	Listening on 127.0.0.1:62020
+1669296085028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileAtsnsC"
+1669296085618	Marionette	INFO	Marionette enabled
+1669296085625	Marionette	INFO	Listening on port 62039
+Read port: 62039
+1669296085759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileAtsnsC\\search.json.mozlz4", (void 0)))
+1669296094453	Marionette	INFO	Stopped listening on port 62039
+[Parent 52424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+[Parent 52424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1669298545488	geckodriver	INFO	Listening on 127.0.0.1:54984
+1669298548514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileoSUVNc"
+1669298548858	Marionette	INFO	Marionette enabled
+1669298548864	Marionette	INFO	Listening on port 54997
+Read port: 54997
+1669298549143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileoSUVNc\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669298555702	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669298557551	Marionette	INFO	Stopped listening on port 54997
+[Parent 9160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669299110820	geckodriver	INFO	Listening on 127.0.0.1:55422
+1669299113897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileGxGjrO"
+1669299114226	Marionette	INFO	Marionette enabled
+1669299114232	Marionette	INFO	Listening on port 55434
+Read port: 55434
+1669299114334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileGxGjrO\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669299125487	Marionette	INFO	Stopped listening on port 55434
+1669299676280	geckodriver	INFO	Listening on 127.0.0.1:56037
+1669299679343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileNnL1CW"
+1669299679871	Marionette	INFO	Marionette enabled
+1669299679877	Marionette	INFO	Listening on port 56051
+Read port: 56051
+1669299679991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileNnL1CW\\search.json.mozlz4", (void 0)))
+1669299682930	Marionette	INFO	Stopped listening on port 56051
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669299790133	geckodriver	INFO	Listening on 127.0.0.1:56258
+1669299793201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileZXxmj2"
+1669299793567	Marionette	INFO	Marionette enabled
+1669299793573	Marionette	INFO	Listening on port 56270
+Read port: 56270
+1669299793840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileZXxmj2\\search.json.mozlz4", (void 0)))
+1669299796342	Marionette	INFO	Stopped listening on port 56270
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669300019015	geckodriver	INFO	Listening on 127.0.0.1:56519
+1669300022052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilel3hEwE"
+1669300022445	Marionette	INFO	Marionette enabled
+1669300022451	Marionette	INFO	Listening on port 56529
+Read port: 56529
+1669300022862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilel3hEwE\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669300030091	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669300032228	Marionette	INFO	Stopped listening on port 56529
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669300707252	geckodriver	INFO	Listening on 127.0.0.1:57029
+1669300710299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilextYatj"
+1669300710632	Marionette	INFO	Marionette enabled
+1669300710640	Marionette	INFO	Listening on port 57042
+Read port: 57042
+1669300710936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilextYatj\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669300719000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669300720428	Marionette	INFO	Stopped listening on port 57042
+[Parent 50560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669301100771	geckodriver	INFO	Listening on 127.0.0.1:57515
+1669301103822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilePhxYN6"
+1669301104165	Marionette	INFO	Marionette enabled
+1669301104172	Marionette	INFO	Listening on port 57527
+Read port: 57527
+1669301104374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilePhxYN6\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669301111824	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669301114029	Marionette	INFO	Stopped listening on port 57527
+[Parent 40888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669301448675	geckodriver	INFO	Listening on 127.0.0.1:58168
+1669301451736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileu9E4B2"
+1669301452107	Marionette	INFO	Marionette enabled
+1669301452113	Marionette	INFO	Listening on port 58180
+Read port: 58180
+1669301452792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileu9E4B2\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669301458200	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669301459781	Marionette	INFO	Stopped listening on port 58180
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669348117329	geckodriver	INFO	Listening on 127.0.0.1:49308
+1669348120422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileEwKzMN"
+1669348122091	Marionette	INFO	Marionette enabled
+1669348122115	Marionette	INFO	Listening on port 49320
+Read port: 49320
+1669348122496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileEwKzMN\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669348140014	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669348141475	Marionette	INFO	Stopped listening on port 49320
+[Parent 47540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669348666119	geckodriver	INFO	Listening on 127.0.0.1:59107
+1669348669223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofileEdZHEI"
+1669348671137	Marionette	INFO	Marionette enabled
+1669348671162	Marionette	INFO	Listening on port 55233
+Read port: 55233
+Read port: 55233
+1669348673052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+1669349007894	geckodriver	INFO	Listening on 127.0.0.1:53853
+1669349010990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile2N7tel"
+1669349011432	Marionette	INFO	Marionette enabled
+1669349011440	Marionette	INFO	Listening on port 53866
+Read port: 53866
+1669349011907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile2N7tel\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669349050841	Marionette	INFO	Stopped listening on port 53866
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 47896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669349345626	geckodriver	INFO	Listening on 127.0.0.1:54621
+1669349348676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile5rDIGR"
+1669349349096	Marionette	INFO	Marionette enabled
+1669349349102	Marionette	INFO	Listening on port 54633
+Read port: 54633
+1669349349515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile5rDIGR\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajio.com."
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669349398960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajio.com."
+1669349399709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajio.com."
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1669349521180	Marionette	INFO	Stopped listening on port 54633
+1669349643333	geckodriver	INFO	Listening on 127.0.0.1:49943
+1669349646375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile17qeCW"
+1669349646710	Marionette	INFO	Marionette enabled
+1669349646716	Marionette	INFO	Listening on port 49958
+Read port: 49958
+1669349647010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile17qeCW\\search.json.mozlz4", (void 0)))
+1669349661514	Marionette	INFO	Stopped listening on port 49958
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669353502155	geckodriver	INFO	Listening on 127.0.0.1:62221
+1669353505144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile6HmUIG"
+1669353505539	Marionette	INFO	Marionette enabled
+1669353505547	Marionette	INFO	Listening on port 62235
+Read port: 62235
+1669353505647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofile6HmUIG\\search.json.mozlz4", (void 0)))
+1669353525273	Marionette	INFO	Stopped listening on port 62235
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669353603138	geckodriver	INFO	Listening on 127.0.0.1:62426
+1669353606186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilewIcCKI"
+1669353606559	Marionette	INFO	Marionette enabled
+1669353606567	Marionette	INFO	Listening on port 62444
+Read port: 62444
+1669353606815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SUNNYP~1\\AppData\\Local\\Temp\\rust_mozprofilewIcCKI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+1669353803434	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669353806253	Marionette	INFO	Stopped listening on port 62444
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 34256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
